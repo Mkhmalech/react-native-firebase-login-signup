@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075498874980",
+    "project_id": "ittyni0002",
+    "storage_bucket": "ittyni0002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075498874980:android:8c4d0b3b3812c7d3474771",
+        "android_client_info": {
+          "package_name": "com.ittyni0002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075498874980-c651b84nc2uml0hvrql29uq3j0607lks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTfzDfHA308B2VPUfnOWrUFKVmWpDnMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075498874980-c651b84nc2uml0hvrql29uq3j0607lks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

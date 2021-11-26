@@ -1,0 +1,14 @@
+com/ittyni0002/BuildConfig.java
+ com.ittyni0002.BuildConfig
+com/ittyni0002/MainActivity.java
+ com.ittyni0002.MainActivity
+com/ittyni0002/MainApplication.java
+ com.ittyni0002.MainApplication
+ com.ittyni0002.MainApplication$1
+com/ittyni0002/ReactNativeFlipper.java
+ com.ittyni0002.ReactNativeFlipper
+ com.ittyni0002.ReactNativeFlipper$1
+ com.ittyni0002.ReactNativeFlipper$2
+ com.ittyni0002.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
